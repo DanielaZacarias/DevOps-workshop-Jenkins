@@ -1,11 +1,12 @@
-## Tools to install:
-> Jenkins: https://jenkins.io/download/
-
+# Tools to install:
 > Java: https://www.java.com/es/download/
 
 > Git: https://git-scm.com/downloads
 
 > Ngrok: https://ngrok.com/download
+
+> Jenkins: https://jenkins.io/download/
+* *Only download and unzip. We will execute and configure Jenkins in the Workshop*
 
 > Homebrew (only for Mac users):
 > * In your terminal, install Homebrew using the command found at:
