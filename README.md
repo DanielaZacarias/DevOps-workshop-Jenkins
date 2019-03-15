@@ -6,7 +6,7 @@
 > Ngrok: https://ngrok.com/download
 
 > Jenkins: https://jenkins.io/download/
-* *Only download and unzip. We will execute and configure Jenkins in the Workshop*
+> * *Only download and unzip. We will execute and configure Jenkins in the Workshop*
 
 > Homebrew (only for Mac users):
 > * In your terminal, install Homebrew using the command found at:
