@@ -1,5 +1,3 @@
-# workshop-jenkins
-
 ## Tools to install:
 > Jenkins: https://jenkins.io/download/
 
