@@ -13,3 +13,5 @@
 https://brew.sh/index_es
 > * In your terminal, install Java using: 
 **brew cask install java**
+
+> La presentación para este Workshop es el otro archivo que se encuentra en este repositorio que se llama "Workshop ppt changes".
