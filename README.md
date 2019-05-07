@@ -15,3 +15,5 @@ https://brew.sh/index_es
 **brew cask install java**
 
 > La presentación para este Workshop es el otro archivo que se encuentra en este repositorio que se llama "Workshop ppt changes".
+
+https://drive.google.com/file/d/1kXSVMFniz75S7GGF2a-cyPgJm1hJE6c-/view?usp=sharing
